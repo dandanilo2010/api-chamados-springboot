@@ -5,6 +5,7 @@ API REST desenvolvida com **Java + Spring Boot** para gerenciamento de **usuári
 ## Tecnologias utilizadas
 
 - Java 17
+- Banco Mysql
 - Spring Boot
 - Spring Security
 - JWT

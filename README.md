@@ -130,7 +130,3 @@ LinkedIn: https://linkedin.com/in/danilooaugusto
 
 ---
 
-## Minha sugestão de ajuste final
-Só mudaria uma linha do clone se o nome do seu repositório no GitHub for outro.
-
-Se quiser, eu também posso te mandar uma **versão mais bonita e mais profissional visualmente*
